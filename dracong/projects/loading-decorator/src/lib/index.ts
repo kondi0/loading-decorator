@@ -1,3 +1,4 @@
-export * from './page-loading.module';
-export * from './page-loading.decorator';
-export * from './page-loading.directive';
+export * from './loading.decorator';
+export * from './loading-decorator.component';
+export * from './loading-decorator.directive';
+export * from './loading-decorator.module';
