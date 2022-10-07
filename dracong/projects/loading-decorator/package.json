@@ -1,0 +1,30 @@
+{
+  "name": "@dracong/loading-decorator",
+  "version": "0.0.1",
+  "description": "A decorator which shows and hides a loading animation for Angular using rxjs observables",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kondi0/loading-decorator.git"
+  },
+  "keywords": [
+    "loading",
+    "decorator",
+    "animation",
+    "angular",
+    "observable"
+  ],
+  "author": "kondi0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kondi0/loading-decorator/issues"
+  },
+  "homepage": "https://github.com/kondi0/loading-decorator#readme",
+  "peerDependencies": {
+    "@angular/common": "^13.3.0",
+    "@angular/core": "^13.3.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
